@@ -1,5 +1,5 @@
 Welcome to My Project!
-Author: Thomas
+Author: Thomas Claudius
 <<<<<<< HEAD
 Twitter: @baigan
 =======
