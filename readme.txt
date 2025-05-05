@@ -1,3 +1,3 @@
 Welcome to My Project!
-Author: Thomas Huber
+Author: Thomas Claudious Huber
 Twitter: @baigan
