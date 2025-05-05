@@ -1,7 +1,3 @@
 Welcome to My Project!
-Author: Thomas
-<<<<<<< HEAD
+Author: Thomas Huber
 Twitter: @baigan
-=======
-Twitter:@baigan
->>>>>>> feature/AddTwitterHandle
